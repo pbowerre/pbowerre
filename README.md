@@ -1,4 +1,4 @@
-# Hey! I'm [Prince A.K.A Dev. P] 👋
+# Hey! I'm Prince A.K.A Dev.  👋
 
 Passionate developer, freelancer, and coding tutor with a love for building cool stuff and sharing knowledge. Always open to collaborating on innovative projects in my free time.
 
