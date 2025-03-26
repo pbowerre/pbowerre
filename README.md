@@ -1,4 +1,4 @@
-# Hey! I'm Prince A.K.A Dev.  👋
+# Hey! I'm Prince A.K.A Dev. P  👋
 
 Passionate developer, freelancer, and coding tutor with a love for building cool stuff and sharing knowledge. Always open to collaborating on innovative projects in my free time.
 
@@ -27,7 +27,11 @@ Passionate developer, freelancer, and coding tutor with a love for building cool
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-![Banner](https://x.com/DevP_B/header_photo)
+## 🌍 Location
+🇳🇬 Nigeria
+![Nigeria](https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg)
+
+![Banner](https://gateway.pinata.cloud/ipfs/bafkreialzlpf7ic43k2vt6m4h6tmkxs432msi74f4pz7vfuvql3fyzzdwi)
 
 ---
 
