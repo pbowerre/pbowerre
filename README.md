@@ -5,6 +5,7 @@ Passionate developer, freelancer, and coding tutor with a love for building cool
 
 ## 🚀 About Me
 - 💻 I specialize in Web & App Development.
+- ⛓ I write Smart Contracts main focus on Ethereum Blockchain and other EVM Compatible chains.
 - 🌱 I'm currently learning **C and Assembly for Reverse Engineering and Pentesting (Red Team)**.
 - 🎯 My goal is to become an expert in **Full-Stack Cybersecurity Expert**.
 - 🎨 I enjoy **UI/UX Design, Hacking Challenges, and Building Personal Projects**.
