@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey! I'm [Your Name] 👋
 
-<!--
-**pbowerre/pbowerre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate developer, freelancer, and coding tutor with a love for building cool stuff and sharing knowledge. Always open to collaborating on innovative projects in my free time.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I specialize in Web & App Development.
+- 🌱 I'm currently learning **C and Assembly for Reverse Engineering for Pentesting**.
+- 🎯 My goal is to become an expert in **Full-Stack Cybersecurity Expert**.
+- 🎨 I enjoy **UI/UX Design, Hacking Challenges, and Building Personal Projects**.
+- 🙏 I'm a Lover of Christ. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌎 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/devp_b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-dev-p-🇳🇬-a55a52217)
+
+
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+⭐ **Don't forget to star my repos if you find them useful!**
