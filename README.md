@@ -1,10 +1,11 @@
+![Banner](https://gateway.pinata.cloud/ipfs/bafkreialzlpf7ic43k2vt6m4h6tmkxs432msi74f4pz7vfuvql3fyzzdwi)
 # Hey! I'm Prince A.K.A Dev. P  👋
 
 Passionate developer, freelancer, and coding tutor with a love for building cool stuff and sharing knowledge. Always open to collaborating on innovative projects in my free time.
 
 ## 🚀 About Me
 - 💻 I specialize in Web & App Development.
-- 🌱 I'm currently learning **C and Assembly for Reverse Engineering for Pentesting**.
+- 🌱 I'm currently learning **C and Assembly for Reverse Engineering and Pentesting (Red Team)**.
 - 🎯 My goal is to become an expert in **Full-Stack Cybersecurity Expert**.
 - 🎨 I enjoy **UI/UX Design, Hacking Challenges, and Building Personal Projects**.
 - 🙏 I'm a Lover of Christ. 
@@ -29,9 +30,6 @@ Passionate developer, freelancer, and coding tutor with a love for building cool
 
 ## 🌍 Location
 🇳🇬 Nigeria
-![Nigeria](https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg)
-
-![Banner](https://gateway.pinata.cloud/ipfs/bafkreialzlpf7ic43k2vt6m4h6tmkxs432msi74f4pz7vfuvql3fyzzdwi)
 
 ---
 
